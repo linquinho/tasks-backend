@@ -53,7 +53,8 @@
 			<version>1.10.19</version>
 			<scope>test</scope>
 		</dependency>
-	
+	</dependencies>
+
 	<build>
 		<finalName>tasks-backend</finalName>
 		<plugins>
@@ -78,5 +79,4 @@
 			</plugin>
 		</plugins>
 	</build>
-
 </project>
