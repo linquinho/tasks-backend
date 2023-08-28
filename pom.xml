@@ -56,7 +56,7 @@
 		<dependency>
 			<groupId>commons-httpclient</groupId>
 			<artifactId>commons-httpclient</artifactId>
-			<version>5.0</version>
+			<version>3.3</version>
 			<exclusions>
 				<exclusion>
 					<groupId>commons-logging</groupId>
